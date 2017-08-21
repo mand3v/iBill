@@ -1,0 +1,13 @@
+About Box:
+6042c795ff525d42e88ba5123d1f29969c356cd3_0.file.about.tpl.php
+
+C:\Bitnami\wampstack-5.6.31-0\apache2\htdocs\ibilling\ui\theme\ibilling\about.tpl
+
+
+
+Client login:
+C:\Bitnami\wampstack-5.6.31-0\apache2\htdocs\ibilling\ui\theme\ibilling\client_login.tpl
+
+
+Login:
+C:\Bitnami\wampstack-5.6.31-0\apache2\htdocs\ibilling\ui\theme\ibilling\login.tpl
