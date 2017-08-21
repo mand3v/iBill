@@ -1,0 +1,10 @@
+1. Open \Application\iBill\iBill\config.php
+2. Change  :	
+define('APP_URL', 'http://sand-box/ibill/iBill');
+	To :	
+define('APP_URL', 'http://sand-box/ibill');
+3. Change  :	
+$_app_stage = 'Dev';
+	To :	
+$_app_stage = 'Live';
+4. Double check db config
